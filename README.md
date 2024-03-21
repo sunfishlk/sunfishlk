@@ -18,16 +18,13 @@ A CS Student of XJTU.
 
 Nice to meet you.
 
-Luo Kai is the best!
-
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunfishlk&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunfishlk&layout=compact&theme=tokyonight)
 
-![Visitor Count](https://profile-counter.glitch.me/sunfishlk/count.svg)
+You are my ![Visitor Count](https://profile-counter.glitch.me/sunfishlk/count.svg) visitor, Thank You!:happy:
 
-
-**Skills**
+**My Skills**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,4 +47,3 @@ Luo Kai is the best!
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
