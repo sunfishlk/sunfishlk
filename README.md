@@ -1,5 +1,3 @@
-<h1 align="center"> <a href="https://sunfishlk.github.io"> <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);时间向前走一定只有路口没有尽头&center=true&size=27"> </a> </h1>
-
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);时间向前走一定只有路口没有尽头&center=true&size=27"></p>
 
 ### Hi there 👋
