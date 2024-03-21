@@ -29,7 +29,7 @@ A CS Student of XJTU.
 
 Nice to meet you.
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/sunfishlk/count.svg) visitor, Thank You!​ :hugs:
+You are my ![Visitor Count](https://profile-counter.glitch.me/sunfishlk/count.svg) visitor, Thank You!​​ :hugs:
 
 ### My Skills :four_leaf_clover:
 
