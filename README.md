@@ -1,5 +1,11 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);时间向前走一定只有路口没有尽头&center=true&size=27"> </a> </h1>
 
+<a href="https://www.bilibili.com"><img src='https://img.shields.io/badge/Bilibili-red?style=for-the-badge&logo=bitcoin&logoColor=white'></a>
+<a href="https://www.bilibili.com"><img src='https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white'></a>
+<a href="https://sunfishlk.github.io"><img src='https://img.shields.io/badge/website-black?style=for-the-badge&logo=github&logoColor=white
+'></a>
+
+
 ### Hi there 👋
 
 <!--
@@ -23,9 +29,9 @@ A CS Student of XJTU.
 
 Nice to meet you.
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/sunfishlk/count.svg) visitor, Thank You!:happy:
+You are my ![Visitor Count](https://profile-counter.glitch.me/sunfishlk/count.svg) visitor, Thank You!​ :hugs:
 
-**My Skills**
+### My Skills :four_leaf_clover:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,7 +54,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/sunfishlk/count.sv
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 <!-- <div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=sunfishlk&show_icons=true&theme=tokyonight" alt="Github Status"></div> -->
