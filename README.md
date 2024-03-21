@@ -1,10 +1,5 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);时间向前走一定只有路口没有尽头&center=true&size=27"> </a> </h1>
 
-<a href="https://www.bilibili.com"><img src='https://img.shields.io/badge/Bilibili-red?style=for-the-badge&logo=bitcoin&logoColor=white'></a>
-<a href="https://www.bilibili.com"><img src='https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white'></a>
-<a href="https://sunfishlk.github.io"><img src='https://img.shields.io/badge/website-black?style=for-the-badge&logo=github&logoColor=white
-'></a>
-
 
 ### Hi there 👋
 
@@ -30,6 +25,17 @@ A CS Student of XJTU.
 Nice to meet you.
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/sunfishlk/count.svg) visitor, Thank You!​​ :hugs:
+
+### Find Me In :point_down:
+
+<div style="display:flex;justify-content:center">
+<a href="https://https://space.bilibili.com/630370693"><img src='https://img.shields.io/badge/Bilibili-red?style=for-the-badge&logo=bitcoin&logoColor=white'></a>
+<a href="https://www.bilibili.com"><img src='https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white'></a>
+<a href="https://sunfishlk.github.io"><img src='https://img.shields.io/badge/website-black?style=for-the-badge&logo=github&logoColor=white
+'></a>
+</div>
+
+
 
 ### My Skills :four_leaf_clover:
 
@@ -59,4 +65,4 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/sunfishlk/count.sv
 
 <!-- <div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=sunfishlk&show_icons=true&theme=tokyonight" alt="Github Status"></div> -->
 
-<div style="text-align:center;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunfishlk&layout=compact&theme=tokyonight" style="width:100%" alt="Top Languages"></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunfishlk&layout=compact&theme=tokyonight" alt="Top Languages">
