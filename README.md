@@ -14,13 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 A CS Student of XJTU.
 
 Nice to meet you.
 
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunfishlk&show_icons=true&theme=tokyonight)
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);时间向前走一定只有路口没有尽头&center=true&size=27"> </a> </h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunfishlk&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=sunfishlk&show_icons=true&theme=tokyonight" style="width:100%" alt="Github Status">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunfishlk&layout=compact&theme=tokyonight" style="width:100%" alt="Top Languages">
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/sunfishlk/count.svg) visitor, Thank You!:happy:
 
