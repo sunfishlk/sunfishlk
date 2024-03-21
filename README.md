@@ -1,3 +1,5 @@
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);时间向前走一定只有路口没有尽头&center=true&size=27"> </a> </h1>
+
 ### Hi there 👋
 
 <!--
@@ -15,15 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 A CS Student of XJTU.
 
 Nice to meet you.
-
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);时间向前走一定只有路口没有尽头&center=true&size=27"> </a> </h1>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sunfishlk&show_icons=true&theme=tokyonight" style="width:100%" alt="Github Status">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunfishlk&layout=compact&theme=tokyonight" style="width:100%" alt="Top Languages">
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/sunfishlk/count.svg) visitor, Thank You!:happy:
 
@@ -50,3 +48,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/sunfishlk/count.sv
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+<!-- <div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=sunfishlk&show_icons=true&theme=tokyonight" alt="Github Status"></div> -->
+
+<div style="text-align:center;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunfishlk&layout=compact&theme=tokyonight" style="width:100%" alt="Top Languages"></div>
