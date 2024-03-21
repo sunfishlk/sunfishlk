@@ -1,4 +1,4 @@
-<p align='center'><a href="sunfishlk.github.io"><img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);时间向前走一定只有路口没有尽头&center=true&size=27"></a></p>
+<p align='center'><a href="https://sunfishlk.github.io"><img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);时间向前走一定只有路口没有尽头&center=true&size=27"></a></p>
 
 ### Hi there 👋
 
