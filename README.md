@@ -59,6 +59,12 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/sunfishlk/count.sv
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/pycharm-f0e14e?style=for-the-badge&logo=dependabot&logoColor=black)
 
+### Recently Learning :book:
+
+![CV](https://img.shields.io/badge/Computer%20Vision-%230089A7?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-%2366BAB7?style=for-the-badge)
+![ThreeJS](https://img.shields.io/badge/Threejs-%23F6C555?style=for-the-badge)
+![WeChat-mini-porgram](https://img.shields.io/badge/wechat%20mini%20program-%237DB9DE?style=for-the-badge)
 
 <!-- <div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=sunfishlk&show_icons=true&theme=tokyonight" alt="Github Status"></div> -->
 
